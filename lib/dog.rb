@@ -23,3 +23,8 @@ class Dog
 end
 
 oakley = Dog.new
+oakley.name = "Oakley"
+oakley.breed = "Labradoodle"
+
+oakley.name
+oakley.breed
