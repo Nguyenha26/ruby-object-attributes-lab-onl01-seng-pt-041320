@@ -14,7 +14,7 @@ class Person
   end
   
   def job
-    @breed
+    @job
   end
   
   def job=(type_of_job)
